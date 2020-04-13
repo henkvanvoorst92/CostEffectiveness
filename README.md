@@ -1,5 +1,5 @@
 # CostEffectiveness
-In this repository the code is provided for a health state transition model as described in the study:
+In this repository the python code is provided for a cost effectiveness analysis (CEA) based on a health state transition ('Markov') model as described in the study:
 
 Cost and health effects of case management compared to outpatient clinic follow-up in a Dutch heart failure cohort
 H. van Voorst and dr. A.E.R. Arnold
